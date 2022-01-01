@@ -73,7 +73,7 @@ console.log(c);
 /* 
 
         Se pedirmos para o console imprimir o valor da variável (c), 
-        o valor será impresso como('Estevan Felipe') ou como ('Maria') ?
+        o valor será impresso como('Estevan Felipe') ou como ('Maria') ou vai imprimir os dois juntos ?
 
         Se você respondeu como ("Estevan Felipe") você está certo.
         pois o console.log(c) está imprimindo o valor da variável (c) no contexto global.
