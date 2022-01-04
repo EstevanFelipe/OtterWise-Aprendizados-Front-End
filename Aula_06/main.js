@@ -69,3 +69,17 @@ if (H > G, G > H) {
 } else {
     console.log('Condição False');    
 }
+
+/* -------------------------------------------------- */ /* -------------------------------------------------- */
+
+// Exemplo 5 -- BONUS -- Comparação de valores -- Maior, Menor ou Igual --
+
+const I = 10;
+
+if (I > 10) {
+    console.log('Maior que 10');
+} else if (I < 10) {
+    console.log('Menor que 10');
+} else {
+    console.log('Igual a 10');
+}
