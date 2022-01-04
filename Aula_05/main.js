@@ -32,15 +32,15 @@ value = "String";
 switch (value) {
     case 1:
         console.log(10);
-        break;
+        break
     
     case 2:
         console.log('String');
-        break;
+        break
     
     default:
         console.log('Não é nenhum dos valores acima.');
-        break;
+        break
 }
 
 console.log(value);
